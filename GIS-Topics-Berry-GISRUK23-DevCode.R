@@ -1,5 +1,5 @@
 
-#> Code for the GISRUK 2023 submission "Visualising the evolution of GIS research using bibliographic data" by Berry et al (2023)
+#> Code for the GISRUK 2023 submission "Exploring the evolution of GIS research using bibliographic data" by Berry et al (2023)
 #> Note this code is in development
 #> The final code with full desccription of workings plus a Quarto website will be made available on publication of the full journal paper
 #> contact rberry@glos.ac.uk for further info
