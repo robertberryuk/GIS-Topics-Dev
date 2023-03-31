@@ -12,7 +12,7 @@ TITLE-ABS-KEY ( {G.I.S} ) OR
 TITLE-ABS-KEY ( {spatial analysis} ) OR 
 TITLE-ABS-KEY ( {gi-science} ) AND 
 LANGUAGE ( english ) ) AND 
-PUBYEAR > 1969 AND PUBYEAR < 2022 OR 
+PUBYEAR > 1969 AND PUBYEAR < 2023 OR 
 TITLE-ABS-KEY ({geographic* data}) OR 
 SRCTITLE(International Journal of Geographical Information Science) OR 
 SRCTITLE(Transactions in GIS) OR 
